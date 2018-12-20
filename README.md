@@ -1,6 +1,6 @@
 Django Practice
 ----------------------------------------------------------------------
-This repository contains the various apps on which i have worked on while tryign to learn Django
+This repository contains the various apps on which i have worked on while trying to learn Django
 <br><br>
 <h3>Apps :</h3>
 <br>
